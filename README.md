@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
