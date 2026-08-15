@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0073-set-matrix-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -28,5 +29,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
