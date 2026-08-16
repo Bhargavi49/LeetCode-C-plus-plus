@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0073-set-matrix-zeroes) |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -38,4 +39,29 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0048-rotate-image) |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
