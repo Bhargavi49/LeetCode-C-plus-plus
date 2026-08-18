@@ -12,6 +12,7 @@
 | [0229-majority-element-ii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0229-majority-element-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |
