@@ -15,6 +15,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -29,6 +30,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
