@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0229-majority-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1386-cinema-seat-allocation) |
+| [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0048-rotate-image) |
+| [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -71,6 +73,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0118-pascals-triangle) |
+| [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
 ## Sorting
 |  |
 | ------- |
