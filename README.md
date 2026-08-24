@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0229-majority-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0048-rotate-image) |
 | [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -67,6 +69,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -85,12 +89,14 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/0118-pascals-triangle) |
 | [1563-stone-game-v](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -113,4 +119,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Bhargavi49/LeetCode-C-plus-plus/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
